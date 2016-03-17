@@ -1,4 +1,4 @@
 # hello-world
 Primera prueba en GitHub
 
-Buenas a todos los gitHuberos
+Hola Steven y Erick, como les va?
